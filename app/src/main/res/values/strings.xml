@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PhotoSearch</string>
+    <string name="menu">Menu</string>
+    <string name="title_discover">Title discover</string>
+    <string name="discover">Discover</string>
+    <string name="favorite">Favorite</string>
+    <string name="empty" />
+    <string name="what_you_like">There’s what you like</string>
+</resources>
