@@ -12,3 +12,7 @@ I attached mockups of the final app on **/mockup** folder.
 Unsplash service need access token. Once you get it on unplash site, go to "UnsplashService.kt" and replace the content of ACCESS_KEY variable.
 
 Have a good day!
+
+<img src="https://github.com/federicoviceconti/PhotoSearch/blob/master/mockup/home_page-1.png" alt="mockup home page 1" width="200">
+<img src="https://github.com/federicoviceconti/PhotoSearch/blob/master/mockup/home_page-2.png" alt="mockup home page 2" width="200">
+<img src="https://github.com/federicoviceconti/PhotoSearch/blob/master/mockup/home_page_favorite-3.png" alt="mockup favorite home page" width="200">
