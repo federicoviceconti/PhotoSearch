@@ -13,4 +13,6 @@ Unsplash service need access token. Once you get it on unplash site, go to "Unsp
 
 Have a good day!
 
+Design:
+
 <img src="https://github.com/federicoviceconti/PhotoSearch/blob/master/mockup/home_page-1.png" alt="mockup home page 1" width="200">
